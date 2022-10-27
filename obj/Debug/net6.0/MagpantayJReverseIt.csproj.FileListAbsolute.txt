@@ -1,0 +1,15 @@
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\bin\Debug\net6.0\MagpantayJReverseIt.exe
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\bin\Debug\net6.0\MagpantayJReverseIt.deps.json
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\bin\Debug\net6.0\MagpantayJReverseIt.runtimeconfig.json
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\bin\Debug\net6.0\MagpantayJReverseIt.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\bin\Debug\net6.0\MagpantayJReverseIt.pdb
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.csproj.AssemblyReference.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.AssemblyInfoInputs.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.AssemblyInfo.cs
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\refint\MagpantayJReverseIt.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.pdb
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\MagpantayJReverseIt.genruntimeconfig.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJReverseIt\obj\Debug\net6.0\ref\MagpantayJReverseIt.dll
