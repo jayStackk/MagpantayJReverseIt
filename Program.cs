@@ -15,10 +15,10 @@ while(letsPlay == true)
 int numOne;
 int localNum;
 int newDigits = 0;
-bool isNumber;
+bool toValid;
 
 Console.WriteLine("Please enter a number to be reversed.");
-isNumber = Int32.TryParse(Console.ReadLine() , out numOne);
+toValid = Int32.TryParse(Console.ReadLine() , out numOne);
 
 
 
